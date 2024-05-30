@@ -1,0 +1,4 @@
+# Modelagem e Diagramação de um Componente iPhone
+ Representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+
+![](https://mermaid.ink/img/pako:eNptUsFuwjAM_ZUop6LBD1S7oO2ywxAa0069mMS01tK4chO0wfj3pbRUrSCXxPbLe89xztqwRZ1r46BtXwlKgbrwKi3aVuxRPf-tVkp9YCNsY2B5jy0ZcDNMD1o3IOgq_kSHB_Zk-AFoA0cswbK8-YDiMRS-R10N3Ouc-6pST4ENSLYY4wZiO0u0SdcQexjuZrsg5EtVX6MBd5mq3Tse5RKfozLxDyQ-1ii8mJQhoLc4MZBylDgI5IVFkPiLT9kj2bs3mKriD-1JtlCSHzuI4mbKlvo-N3yE9R6yua0Ijk5wo7gZ0EudOqiBbJr2VbDQocIaC52nowX5LnThOxyk99_9eqPzIBGXWjiWlc4P4NoUxcam1oevMmbRUje04TN12-UfEhPDoQ?type=png)
