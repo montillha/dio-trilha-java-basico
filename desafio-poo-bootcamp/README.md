@@ -1,0 +1,2 @@
+## Desafio POO Bootcamp
+Este projeto tem como objetivo a criação de um sistema para gerenciar um Bootcamp,  utilizando o Paradigma de Orientação a Objetos (POO), aplicando conceitos como abstração, encapsulamento, herança e polimorfismo.
