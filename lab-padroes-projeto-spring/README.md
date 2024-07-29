@@ -1,0 +1,2 @@
+# Gestão de Clientes API
+Esta é uma API RESTful para a gestão de clientes, desenvolvida em Java com Spring Boot. A API permite criar, ler, atualizar e excluir clientes e é integrada ao serviço ViaCEP para a obtenção de endereços.
